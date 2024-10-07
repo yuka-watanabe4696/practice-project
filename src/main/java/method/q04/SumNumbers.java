@@ -1,8 +1,8 @@
 package method.q04;
 
 public class SumNumbers {
-	public static int calculateSum(int num1, int num2) {
-		return num1 + num2;
+	public static int calculateSum(int number1, int number2) {
+		return number1 + number2;
 	}
 
 	public static void main(String[] args) {
