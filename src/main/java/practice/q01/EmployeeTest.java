@@ -14,6 +14,7 @@ public class EmployeeTest {
 
 		// 情報を表示
 		e1.showInfo();
+		System.out.println("----------");
 		e2.showInfo();
 	}
 }
